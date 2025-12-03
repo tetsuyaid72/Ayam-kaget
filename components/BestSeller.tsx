@@ -84,7 +84,7 @@ const BestSeller: React.FC<BestSellerProps> = ({ onAddToCart }) => {
                 <div className="text-center leading-none">
                   <span className="text-xs">HANYA</span>
                   <br/>
-                  <span className="text-xl">12rb</span>
+                  <span className="text-xl">10rb</span>
                 </div>
               </div>
             </div>

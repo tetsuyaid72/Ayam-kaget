@@ -38,7 +38,7 @@ export const MENU_ITEMS: Product[] = [
     id: 'p-5',
     name: 'Ayam Geprek',
     category: 'special',
-    price: 12000,
+    price: 10000,
     isBestSeller: true,
     image: '/images/geprek.jpg',
     description: 'Ayam crispy digeprek dengan sambal bawang pedas nampol!'
@@ -47,12 +47,20 @@ export const MENU_ITEMS: Product[] = [
     id: 'p-6',
     name: 'Ayam Richeese',
     category: 'special',
-    price: 12000,
+    price: 10000,
     image: '/images/ricis.jpg',
     description: 'Berlumur saus keju pedas manis yang creamy.'
   },
   {
     id: 'p-7',
+    name: 'Extra Nasi Putih',
+    category: 'original',
+    price: 3000,
+    image: '/images/nasi.jpg',
+    description: 'Nasi putih pulen dan hangat, pas untuk pendamping ayam.'
+  },
+  {
+    id: 'p-8',
     name: 'Tahu Crispy',
     category: 'original',
     price: 1000,
